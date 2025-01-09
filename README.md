@@ -1,4 +1,4 @@
-# 🐣🌱 FineTuning SmolLM2-135M for medical dataset
+# 🐣🌱 FineTuning SmolLM2-135M for Dedical Dataset
 Fine-tuning a lightweight language model using **unsloth** to enhance its performance on medical instructions and knowledge-based tasks.
 
 ## 💼 Resources
