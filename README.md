@@ -2,9 +2,10 @@
 Fine-tuning a lightweight language model using **unsloth** to enhance its performance on medical instructions and knowledge-based tasks.
 
 ## 💼 Resources
-- dataset used for finetuning - https://huggingface.co/datasets/Shekswess/medical_llama3_instruct_dataset_short
-- Base model used for finetuning - https://huggingface.co/unsloth/SmolLM2-135M-bnb-4bit
+
 - FineTuned model on HuggingFace - https://huggingface.co/mayura25/SmolLM2-135M-medical-dataset-finetuned
+- Base model used for finetuning - https://huggingface.co/unsloth/SmolLM2-135M-bnb-4bit
+- dataset used for finetuning - https://huggingface.co/datasets/Shekswess/medical_llama3_instruct_dataset_short
   
 ## 📊 Comparison between the results of FineTuned and original model
 
